@@ -1,0 +1,35 @@
+body {
+  background-color: #f0a0a8;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  background-color: #f0a0a8;
+  padding: 10px;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: smaller;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li img {
+  border-radius: 50%;
+}
+
+li:nth-child(odd) {
+  background-color: #f0c8d4;
+}
+
+
